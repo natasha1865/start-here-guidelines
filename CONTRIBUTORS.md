@@ -1,6 +1,7 @@
 # CONTRIBUTORS
 
 - [@RupamG](https://github.com/RupamG)
+- [@Natasha Alex] (https://github.com/natasha1865)
 
 - [@hariharen9](https://github.com/hariharen9)
 
